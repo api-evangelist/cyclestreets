@@ -1,0 +1,54 @@
+{
+    "name": "CycleStreets",
+    "description": "UK-wide cycle journey planner system, which lets you plan routes from A to B by bike. It is designed by cyclists, for cyclists, and caters for the needs of both confident and less confident cyclists.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/390-cyclestreets.jpg",
+    "tags": [
+        "api provider",
+        "bicycle",
+        "bikes",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cyclestreets\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CycleStreets",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/390-cyclestreets.jpg",
+            "humanURL": "http:\/\/www.cyclestreets.net",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cyclestreets-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.cyclestreets.net\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/convio"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/cyclestreets"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CycleStreets"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.cyclestreets.net"
+        }
+    ]
+}
